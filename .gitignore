@@ -41,23 +41,7 @@ coverage/
 packages/ai/test/.temp-images/
 
 # Project specific
-!.gjc/
-!.gjc/agents/
-!.gjc/agents/**
-!.gjc/skills/
-!.gjc/skills/**
-.gjc/plugins/
-.gjc/context/
-.gjc/interviews/
-.gjc/plans/
-.gjc/ralplan/
-.gjc/specs/
-.gjc/ultragoal/
-.gjc/verification/
-.gjc/logs/
-.gjc/rlm/
-.gjc/state/
-.gjc/metrics.json
+.gjc/
 .pi_config/
 .opencode/
 .worktrees/
